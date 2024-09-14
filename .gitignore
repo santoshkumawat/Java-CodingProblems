@@ -13,7 +13,6 @@
 *.log
 
 # Ignore temporary files
-*.class
 *.jar
 *.war
 *.ear
@@ -27,8 +26,6 @@ target/
 build/
 
 # Ignore JetBrains specific files
-.idea/
-*.iml
 .idea_modules/
 .idea/**/workspace.xml
 .idea/**/tasks.xml
@@ -42,7 +39,6 @@ build/
 Thumbs.db
 
 # Ignore logs and other generated files
-*.log
 *.lock
 *.tmp
 *.swp
