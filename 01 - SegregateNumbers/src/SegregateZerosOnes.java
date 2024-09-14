@@ -1,5 +1,3 @@
-package SegregateZerosOnes;
-
 /**
  * Given an array consisting of 0's and 1's in random order,
  * the task is to segregate all the 0's to the left side and all the 1's to the right side.
