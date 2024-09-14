@@ -41,4 +41,4 @@ public class SegregateZerosOnes {
     }
 }
 
-//Time complexity will be O(n), where n is the length of the array.
+// Time complexity will be O(n), where n is the length of the array.
