@@ -1,0 +1,64 @@
+# Ignore IDEA project files
+.idea/
+*.iws
+*.iml
+*.ipr
+
+# Ignore build output directories
+/out/
+/target/
+*/out/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.class
+*.jar
+*.war
+*.ear
+
+# Ignore Maven and Gradle related files
+#maven
+target/
+
+#gradle
+.gradle/
+build/
+
+# Ignore JetBrains specific files
+.idea/
+*.iml
+.idea_modules/
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/vcs.xml
+.idea/**/shelf/
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore logs and other generated files
+*.log
+*.lock
+*.tmp
+*.swp
+
+# Ignore dependency directories
+/node_modules
+/vendor/
+
+# Ignore compiled files
+*.class
+
+# Ignore IntelliJ IDEA’s workspace and settings
+.idea/workspace.xml
+.idea/gradle.xml
+.idea/libraries/
+.idea/modules.xml
+
+# Ignore Git ignore override files
+!.gitignore
